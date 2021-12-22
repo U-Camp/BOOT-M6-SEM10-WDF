@@ -1,6 +1,6 @@
 ![Banner](./imagenes/banner.png)
 
-# M1S6: Arreglos.
+# WDF M6 S10: Arreglos
 
 >#### Hola, ya te encuentras en la semana 6 de tu U Camp, ¿cómo pasa el tiempo, cierto?, espero te encuentres muy bien y estés aprendiendo mucho; en esta semana estudiarás lo correspondiente a Arreglos y Métodos de Arreglo en JavaScript.
 >#### Continuemos...
