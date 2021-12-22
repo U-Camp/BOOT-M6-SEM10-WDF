@@ -9,7 +9,7 @@
 
 - [Arreglos](https://github.com/U-Camp/BOOT-M6-SEM10-WDF/blob/main/README.md#arreglos)
   - [Métodos de Arreglo](https://github.com/BOOT-M6-SEM10-WDF/blob/main/README.md#m%C3%A9todos-de-arreglo)
-- [POO](https://github.com/U-Camp/BOOT-M6-SEM10-WDF/blob/main/README.md##programaci%C3%B3n-orientada-a-objetos-poo-principios-b%C3%A1sicos)
+- [POO](https://github.com/U-Camp/BOOT-M6-SEM10-WDF/blob/main/README.md#programaci%C3%B3n-orientada-a-objetos-poo-principios-b%C3%A1sicos)
 
 
 # Arreglos
