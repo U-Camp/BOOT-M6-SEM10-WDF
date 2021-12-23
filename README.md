@@ -2,7 +2,7 @@
 
 # WDF M6 S10: Arreglos y POO
 
->#### Hola, ya te encuentras en la semana 6 de tu U Camp, ¿cómo pasa el tiempo, cierto?, espero te encuentres muy bien y estés aprendiendo mucho; en esta semana estudiarás lo correspondiente a Arreglos y Métodos de Arreglo en JavaScript.
+>#### Hola, ya te encuentras en la semana 6 de tu U Camp, ¿cómo pasa el tiempo, cierto?, espero te encuentres muy bien y estés aprendiendo mucho; en esta semana estudiarás lo correspondiente a Arreglos y  POO en JavaScript.
 >#### Continuemos...
 
 # ÍNDICE
