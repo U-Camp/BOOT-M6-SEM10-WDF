@@ -186,7 +186,7 @@ instructorZutano.decirCorreo();
 instructorZutano.hablar('Hola desde Instructor');
 
 ```
->#### ¿Qué tal te pareció el contenido visto? Te dejo por aquí una infografía por si deseas consultarla y descargarla, es sobre Programación Orientada a Objetos, [presiona aquí.](https://github.com/U-Camp/BOOT-M6-SEM10-WDF/blob/main/infografias/M1_S7_Infografia%2002.pdf)
+>#### Te dejo por aquí una infografía por si deseas consultarla y descargarla, es sobre Programación Orientada a Objetos, [presiona aquí.](https://github.com/U-Camp/BOOT-M6-SEM10-WDF/blob/main/infografias/M1_S7_Infografia%2002.pdf)
 
 
 
